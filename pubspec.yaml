@@ -26,15 +26,15 @@ dependencies:
   react: ^6.0.0
   redux: ">=3.0.0 <5.0.0"
   source_span: ^1.4.1
-  transformer_utils: #^0.2.0
+  transformer_utils:
     git:
-      url: git@github.com:hunterbreathat-wk/w_flux.git
+      url: git@github.com:hunterbreathat-wk/dart_transformer_utils.git
       ref: flutter-fix
-  w_common: #^1.13.0
+  w_common:
     git:
       url: git@github.com:Workiva/w_common.git
       ref: flutter-fix
-  w_flux: #^2.10.4
+  w_flux:
     git:
       url: git@github.com:hunterbreathat-wk/w_flux.git
       ref: flutter-fix
@@ -52,7 +52,7 @@ dev_dependencies:
   build_web_compilers: ^2.5.1
   built_value_generator: ^8.0.0-nullsafety.0
   dart2_constant: ^1.0.0
-  dart_dev: #^3.0.0
+  dart_dev:
     git:
       url: git@github.com:hunterbreathat-wk/dart_dev.git
       ref: flutter-fix
